@@ -26,6 +26,8 @@
 0.0.0.0 mediavisor.doubleclick.net
 0.0.0.0 adservice.google.com
 0.0.0.0 appmetrica.yandex.com
+0.0.0.0 samsung-com.112.2o7.net
+
 
 # Error Trackers
 0.0.0.0 api.bugsnag.com
